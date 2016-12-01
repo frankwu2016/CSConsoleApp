@@ -10,6 +10,8 @@ namespace CSConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("BranchDecFirst");
+
             Console.WriteLine("Try-Github.");
             Console.ReadKey();
         }
